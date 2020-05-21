@@ -1,3 +1,7 @@
+mod aes;
+mod cipher;
+mod raw_bytes;
+
 #[cfg(test)]
 mod tests {
     #[test]
